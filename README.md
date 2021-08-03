@@ -216,8 +216,6 @@ https://chriskyfung.github.io/blog/qwiklabs/Configure-a-Firewall-and-a-Startup-S
 
 [DeepDotWeb - Surfacing The News From The Deep Web](https://www.deepdotweb.com/)
 
-good reading stuff
-
 [\[PentesterLab\] Learn Web Penetration Testing: The Right Way](https://pentesterlab.com/)
 
 [Building Your Own Kickass Home Lab](https://docs.google.com/presentation/d/1V-mWiyaJ3I6HhXRxH1M5ityWYRqb5PoNHwvWSZaOr_E/edit#slide=id.g18a3b2e8e1_0_15)
