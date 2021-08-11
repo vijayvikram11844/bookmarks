@@ -324,6 +324,8 @@ Forensics
 
 [terraform AWS workshop](https://hashicorp.github.io/field-workshops-terraform/slides/aws/terraform-oss/#1)
 
+[hashicorp vault - attack your vault and how to harden it](https://medium.com/hashicorp-engineering/how-id-attack-your-hashicorp-vault-and-how-you-can-prevent-me-system-hardening-ce151454e26b)
+
 ### interview
 
 [aws solutions architect questions](https://www.glassdoor.sg/Interview/Amazon-Solution-Architect-Interview-Questions-EI_IE6036.0,6_KO7,25_IP2.htm)
