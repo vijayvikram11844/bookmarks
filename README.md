@@ -324,7 +324,7 @@ Forensics
 
 [terraform AWS workshop](https://hashicorp.github.io/field-workshops-terraform/slides/aws/terraform-oss/#1)
 
-[hashicorp vault - attack your vault and how to harden it](https://medium.com/hashicorp-engineering/how-id-attack-your-hashicorp-vault-and-how-you-can-prevent-me-system-hardening-ce151454e26b)
+
 
 ### interview
 
@@ -397,6 +397,8 @@ nginx LB setup
 [Vault secrets mgmt SSH OTP](https://learn.hashicorp.com/tutorials/vault/ssh-otp?in=vault/secrets-management)
 
 [Vault in AWS in 5 mts](https://www.hashicorp.com/resources/deploy-a-production-ready-vault-cluster-on-aws-in-5-minutes/)
+
+[vault - attack your vault and how to harden it](https://medium.com/hashicorp-engineering/how-id-attack-your-hashicorp-vault-and-how-you-can-prevent-me-system-hardening-ce151454e26b)
 
 ### vmware
 
