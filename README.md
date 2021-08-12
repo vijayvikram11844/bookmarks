@@ -388,6 +388,9 @@ nginx LB setup
 
 [cybersecurity framework](https://csf.tools/)
 
+### sonarqube
+[how to use sonarqube](https://www.cprime.com/resources/blog/running-sonarqube/)
+
 ### traefik
 
 [traefik tls](https://tferdinand.net/en/traefik-2-tls-configuration/)
