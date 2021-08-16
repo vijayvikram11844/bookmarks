@@ -156,6 +156,9 @@ nice notes on services
 
 [CI CD and devops](http://www.vamsitalkstech.com/)
 
+###cissp
+[Stanford Uni Linekdin learning](https://uit.stanford.edu/security/sisa)
+
 ### ddwrt
 
 [Pi-hole and ddwrt settings](https://discourse.pi-hole.net/t/pi-hole-and-ddwrt-settings/3385)
@@ -389,6 +392,8 @@ nginx LB setup
 [cybersecurity framework](https://csf.tools/)
 
 [Uni of Texas Security outline](https://security.utexas.edu/)
+
+[Minimum security standards outline](https://uit.stanford.edu/guide/securitystandards)
 
 ### sonarqube
 [how to use sonarqube](https://www.cprime.com/resources/blog/running-sonarqube/)
