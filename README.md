@@ -388,6 +388,8 @@ nginx LB setup
 
 [cybersecurity framework](https://csf.tools/)
 
+[Uni of Texas Security outline](https://security.utexas.edu/)
+
 ### sonarqube
 [how to use sonarqube](https://www.cprime.com/resources/blog/running-sonarqube/)
 
