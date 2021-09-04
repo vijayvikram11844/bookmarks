@@ -183,6 +183,8 @@ nice notes on services
 
 [Portainer on windows 10](https://lemariva.com/blog/2018/05/tutorial-portainer-for-local-docker-environments-on-windows-10)
 
+[Why to avoid docker.sock](https://dejandayoff.com/the-danger-of-exposing-docker.sock/)
+
 ### Fortigate
 
 [The Fortinet Cookbook](http://cookbook.fortinet.com/)
