@@ -112,6 +112,8 @@
 
 [bogotobogo](http://www.bogotobogo.com/DevOps/)
 
+[Learn Security](https://learnsecurity.amazon.com)
+
 all things on devops
 
 [cloudonaut | Launchpad for Amazon Web Services](https://cloudonaut.io/)
