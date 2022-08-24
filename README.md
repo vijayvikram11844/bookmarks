@@ -319,6 +319,8 @@ Forensics
 
 [Vault OSS Workshop](https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/#1)
 
+[2022 Vault Zero Trust Security & Data Protection](https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/adp/#1) 
+
 [Terraform associate questions](https://medium.com/bb-tutorials-and-thoughts/250-practice-questions-for-terraform-associate-certification-7a3ccebe6a1a)
 
 [learn terraform](https://learn.hashicorp.com/terraform)
